@@ -44,4 +44,4 @@ drawer.toggle(false); //=> will always close
 
 ## Examples
 
-- [Example](http://gaia-components.github.io/gaia-drawer/examples/)
+- [Example](http://gaia-components.github.io/gaia-drawer/)
