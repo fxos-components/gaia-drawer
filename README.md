@@ -9,7 +9,7 @@ $ bower install gaia-components/gaia-drawer
 ## Usage
 
 ```html
-<link rel="import" type="text/html" href="bower_components/gaia-drawer.html">
+<script src="bower_components/gaia-drawer/script.js"></script>
 ```
 
 ```html
