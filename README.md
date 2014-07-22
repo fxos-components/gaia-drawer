@@ -6,6 +6,22 @@
 $ bower install gaia-components/gaia-drawer
 ```
 
+## Usage
+
+```html
+<link rel="import" type="text/html" href="bower_components/gaia-drawer.html">
+```
+
+```html
+<gaia-drawer>
+  <p>Some content hidden in the drawer</p>
+</gaia-drawer>
+```
+
+## Attributes
+
+- `open` - Forces the drawer open.
+
 ## API
 
 ### GaiaDrawer#open()
