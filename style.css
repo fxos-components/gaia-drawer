@@ -5,6 +5,7 @@
   gaia-drawer.host {
     display: flex;
     flex-direction: column;
+    overflow: hidden;
   }
 
   /** Inner
