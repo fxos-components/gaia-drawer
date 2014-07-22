@@ -3,9 +3,8 @@
    ---------------------------------------------------------*/
 
   gaia-drawer.host {
-    display: block;
-    position: relative;
-    overflow: hidden;
+    display: flex;
+    flex-direction: column;
   }
 
   /** Inner
