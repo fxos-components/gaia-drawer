@@ -9,6 +9,10 @@
     pointer-events: none;
   }
 
+  gaia-drawer[open] {
+    pointer-events: auto;
+  }
+
   /** Inner
    ---------------------------------------------------------*/
 
